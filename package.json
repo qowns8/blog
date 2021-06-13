@@ -14,9 +14,6 @@
     "serve": "gatsby serve",
     "clean": "gatsby clean"
   },
-  "devDependencies": {
-    "gatsby-cli": "^3.7.1"
-  },
   "dependencies": {
     "gatsby": "^3.6.2",
     "gatsby-plugin-google-analytics": "^3.7.1",

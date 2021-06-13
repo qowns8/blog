@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: "blog-web",
+    siteUrl: process.env.URL || 'http://localhost:4000'
   },
   plugins: [
     "gatsby-plugin-image",
